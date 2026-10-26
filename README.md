@@ -1,9 +1,14 @@
+# To-Do List App
+<<<<<<< HEAD
 # To-Do List App (Ветка main и Ветка 1)
 <<<<<<< HEAD
 # To-Do List App (Ветка main)
 =======
 # To-Do List App (Ветка 1)
 >>>>>>> conflict-test
+=======
+
+>>>>>>> parent of edf2719 (Изменение в main)
 git status
 
 
