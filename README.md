@@ -18,3 +18,4 @@ git status
 - Показать список: `python main.py list`
 - Отметить выполненной: `python main.py done 1`Это мой первый проект на Git!
 - Проверка git pull
+- Строка добавлена через GitHub
