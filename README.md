@@ -1,3 +1,7 @@
+
+git status
+
+
 # To-Do List App
 
 Простой менеджер задач для командной строки на Python.
@@ -12,4 +16,4 @@
 ## Использование
 - Добавить задачу: `python main.py add "Купить молоко"`
 - Показать список: `python main.py list`
-- Отметить выполненной: `python main.py done 1`
+- Отметить выполненной: `python main.py done 1`Это мой первый проект на Git!
