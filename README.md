@@ -1,4 +1,9 @@
+# To-Do List App (Ветка main и Ветка 1)
+<<<<<<< HEAD
 # To-Do List App (Ветка main)
+=======
+# To-Do List App (Ветка 1)
+>>>>>>> conflict-test
 git status
 
 
